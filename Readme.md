@@ -14,6 +14,11 @@ al insertar la data  la  no se tiene control de excepciones
 
 la clase para arrancar el programa es la clase Juego
 
+- Tambien es necesario importar en el proyecto el sql-connetor y utilizar
+  el script de base de datos. Para descargar esta informacion adjunto la
+  siguiente URL:
+  https://drive.google.com/drive/folders/1nSRTJyfb0g5wy5pkZfo3l97opEFsie7X?usp=sharing
+
 
 
 
